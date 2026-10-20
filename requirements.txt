@@ -1,0 +1,9 @@
+earthengine-api
+osmnx
+geopandas
+shapely
+folium
+branca
+pandas
+numpy
+matplotlib
