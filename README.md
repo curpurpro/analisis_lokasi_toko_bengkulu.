@@ -55,7 +55,3 @@ Area mana di Kota Bengkulu yang padat penduduk, masih jauh dari toko yang sudah 
 - Data OSM bisa belum lengkap.
 - Jarak berupa garis lurus, bukan waktu tempuh.
 - Bobot dan ambang adalah asumsi. Harga lahan, pesaing yang tidak ada di OSM, dan daya beli belum diperhitungkan.
-
-## Kesimpulan
-
-> Isi setelah hasil tersedia.
